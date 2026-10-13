@@ -1,8 +1,8 @@
 
-# Iris Automatic Sign-In (ASI)
+# Indemnity Automatic Sign-In (ASI)
 
 This project provides example code for generating automatic sign-In (ASI) 
-embedded and auto sign-in URLs for the Opyn Iris platform. These examples
+embedded and auto sign-in URLs for the Opyn Indemnity platform. These examples
 demonstrate how to securely integrate with the platform using HMAC 
 authentication.
 
@@ -20,7 +20,7 @@ authentication.
 
 ## Prerequisites
 
-- Access to an Opyn Iris account with the required credentials 
+- Access to an Opyn Indemnity account with the required credentials 
   (`secretKey`, `clientId`, etc.). Contact your Opyn account manager for 
   these details.
 - A development environment for one of the supported programming languages:
