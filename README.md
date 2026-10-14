@@ -56,8 +56,8 @@ To generate the URLs, configure the following variables:
     or logs. Treat it as sensitive information.
 - `clientId`: The client ID for the ASI integration. This will be provided by 
   your Opyn account manager.
-- `groupId`: The group ID or group code for the member accessing the application.
-- `memberId`: The member ID.
+- `groupId`: (OPTIONAL)The group ID or group code for the member accessing the application.
+- `memberId`: (OPTIONAL)The member ID.
 - `isProduction`: A boolean flag to toggle between production and test environments.
 - `expiresAt`: The expiration date and time for the generated URLs in ISO 8601 format.
 
